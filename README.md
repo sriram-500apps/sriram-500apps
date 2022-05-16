@@ -6,7 +6,7 @@ Front-end Developer
 
 -------------------
 
-I started by programming journey with python language. I have been working on Vue Js framework from last 1 year, I am passionate about backend.
+I started by programming journey with python language. I have been working on Vue Js framework from last 1 year, I am passionate about Machine Learning.
 
 * 🌍  I'm based in India
 
