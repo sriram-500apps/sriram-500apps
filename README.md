@@ -1,15 +1,18 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-BS5-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 
 
 Hi 👋 My name is Pothuraju Sri Ram Kumar
 
 ========================================
 
-Front-end Developer
+Front-end Developer at [500apps](https://www.linkedin.com/company/500apps/mycompany/)
 
 -------------------
 
@@ -45,7 +48,7 @@ I started by programming journey with python language. I have been working on Vu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sriram-500apps"><img src="https://github-readme-stats.vercel.app/api?username=sriram-500apps&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pothuraju-sriram's GitHub stats" /></a>
+<a href="http://www.github.com/sriram-500apps"><img src="https://github-readme-stats.vercel.app/api?username=sriram-500apps&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=1c1917&icon_color=0891b2&hide_border=true&show_icons=true" alt="pothuraju-sriram's GitHub stats" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram-500apps&layout=compact)](https://github.com/sriram-500apps/github-readme-stats)
