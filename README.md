@@ -12,7 +12,7 @@ Hi 👋 My name is Pothuraju Sri Ram Kumar
 
 ========================================
 
-Front-end Developer at [500apps](https://www.linkedin.com/company/500apps/mycompany/)
+Full Stack Developer at [500apps](https://www.linkedin.com/company/500apps/mycompany/)
 
 -------------------
 
